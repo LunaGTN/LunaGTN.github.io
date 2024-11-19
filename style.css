@@ -1,0 +1,30 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: #75100c;
+    font-family: Noto Sans, sans-serif
+    }
+    
+    p{
+    font-size: 20px;
+    text-align: left;
+    color: #4d2402;
+    font-family: Noto Sans, sans-serif    
+    }
+    
+    body {
+    background-color: #fff5d7;
+    }
+
+    h2{
+        text-align: left;
+        font-family: Noto Sans, sans-serif;  
+        color: #75100c
+    }
+
+    a{        
+        text-align: left;
+        font-size: 20px;
+        font-family: Noto Sans, sans-serif;  
+        color: #a53733    
+    }
